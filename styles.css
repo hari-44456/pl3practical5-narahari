@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  section {
+    display:flex;
+    padding: 20px;
+    /* border: 1px solid black; */
+    justify-content: center;
+    align-content: center;
+  }
+  img{
+    height: 250px;
+    width: 100%;
+  }
+  h2{
+    text-align: center;
+    color: red;
+  }
+  .card{
+    margin:15px;
+    justify-content: center;
+    border: 1px solid black;
+  }
+  .card p,h4 {
+    padding: 5px;;
+  }
+  a{
+    text-decoration: none;
+    color: #000;
+  }
+
+  .Coordinators{
+    color: red; 
+    padding-left: 400px; 
+    font-size: 2rem;
+}
+p{
+    color: #000;
+}
+.padbottom{
+    padding-bottom: 2px;
+}
